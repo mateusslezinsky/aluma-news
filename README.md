@@ -1,105 +1,69 @@
 # ALUMA NEWS
 
-Blog desenvolvido para a disciplina de Programação para Web do curso de Sistemas de Informação
+Blog developed as a demonstration for a class in Information Systems university course.
 
-Desenvolvedores:
+Developers:
 - Frontend - Lucas Thomé da Silva (22103551)
 - Frontend - Augusto Teixeira da Silva (22102556)
-- Backend e DataBase - Mateus Slezinsky Pereira (21200422)
+- Backend and database - Mateus Slezinsky Pereira (21200422)
 
-### Tecnlogias Utilizadas
-- React: Uma biblioteca JavaScript para a construção de interfaces de usuário.
-- React Router DOM: Uma biblioteca para o roteamento e navegação em uma aplicação React.
-- Firebase: Autenticação de usuários, armazenamento de dados em tempo real e hospedagem de arquivos.
-- rReact-quill: Um editor de texto rico em recursos para React
-- uuidv4: Uma biblioteca para geração de identificadores únicos universais (UUIDs).
+### Tech stack
+- React: a JavaScript library used for building UIs.
+- React Router DOM: a React library for routing and navigation.
+- Firebase: users authentication, real-time database and file storage.
+- React-quill: rich-text editor for React.
+- uuidv4: library for generating random uuids.
 
-### Versão live
+### Live version
 
 https://aluma-news.netlify.app/
 
-### Repositório GitHub
+### GitHub repository
 
 https://github.com/mateusslezinsky/projeto-prog-web.git
 
-### Pré-requisitos
+### Pre-requisites
 
-- Node.js instalado (versão 18.16.1 ou lts)
-- Git instalado
+- Node.js (version 18.16.1 or long-term support)
+- Git
 
-## Instalação
+## Setup
 
 
-1. Clone o repositório do projeto:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/mateusslezinsky/projeto-prog-web.git
 
-2. Navegue até o diretório do projeto:
+2. Go to the root project directory:
 
    ```bash
    cd projeto-prog-web
 
-3. Instale as dependências do projeto:
+3. Install the project dependencies:
     ```bash
    npm install
 
-## Executando o Projeto
+## Using the project
    
-1. Inicie o servidor de desenvolvimento:
+1. Start the development server:
     ```bash
    npm start
 
-2. Abra o navegador e acesse http://localhost:3000 para visualizar o blog.
+2. Open the browser at http://localhost:3000 to see the blog home page.
 
-## Recursos de Funcionalidades
-   
-   * Visualização de notícias
-   * Cadastro de usuário
-   * Login de usuário
-   * Postagem de novas notícias
-   * Comentários em notícias
+## Features
+   * Reading the news
+   * User sign-up
+   * User login
+   * News posting
+   * News comments
 
+## License
 
+All rights reserved.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Licença
-
-Todos direitos reservados
-
-## Contato
+## Contact information
 
 - thome_lucas@live.com
 - mateus.sle.per@hotmail.com
