@@ -38,7 +38,7 @@ https://github.com/mateusslezinsky/projeto-prog-web.git
 2. Go to the root project directory:
 
    ```bash
-   cd projeto-prog-web
+   cd aluma-news
 
 3. Install the project dependencies:
     ```bash
